@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>CVL</Creator>
+        <Created>2017-05-24T11:34:41</Created>
+        <LastChange>2017-05-24T09:34:41Z</LastChange>
+    </Metadata>
+    <Page imageFilename="169.jpg" imageWidth="5406" imageHeight="6504"/>
+</PcGts>
