@@ -1,0 +1,12 @@
+INPUT_TENSOR_KEY = 'resized_images'
+OUTPUT_TENSOR_KEY = 'probs'
+TRAIN= 'train'
+TEST = 'test'
+AUG_DEMO = 'augmentation_demo'
+SERVING_SESSION = 'serve'
+SERVING_SIGNATURE = 'from_resized_images:serving_default'
+IMAGE_EXTENSIONS = ('.png', '.jpg', '.jpeg')
+LIST_EXTENSIONS = ('.txt', '.lst')
+COLOR_IMAGE_CHANNLES = 3
+GREY_IMAGE_CHANNELS = 1
+DEFAULT_GPU = '0'

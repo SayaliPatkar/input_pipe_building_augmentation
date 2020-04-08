@@ -1,0 +1,20 @@
+input:
+  train_path : 'data\flower_photos\aug_demo'
+  val_path : 'data\complex_cbad\val'
+  test_path : 'data\complex_cbad\test'
+  model_path : '.\pb_models\'
+data_prep:
+  mode : 'augmentation_demo'
+  channels : 3
+  resize: 50000
+  augmentation: True
+augmentation_ops:
+  color: True
+  flip_vert: True
+  flip_horz: True
+  gaussian_noise: True
+  max_rotation: 3
+  max_scaling: 0.3
+  color: True
+session:
+  gpu : '0'
