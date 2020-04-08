@@ -9,7 +9,7 @@ Building input pipeline complete with augmentation using Tensorflow 2.0
 
 
 ## Results
-![alt text](results.png)
+![alt text](https://github.com/SayaliPatkar/input_pipe_building_augmentation/blob/master/results.PNG)
 
 ## References:
 https://www.wouterbulten.nl/blog/tech/data-augmentation-using-tensorflow-data-dataset/
